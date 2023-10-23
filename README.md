@@ -1,1 +1,1 @@
-# WebAppMTP1
+Medii si tehnologii de programare Proiect
